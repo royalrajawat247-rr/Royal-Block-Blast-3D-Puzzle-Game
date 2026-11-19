@@ -1,0 +1,6 @@
+{
+  "name": "Royal Block Blast: Neon Puzzle",
+  "description": "100% offline 8x8 block puzzle game engineered by RR Tech Labs featuring Royal Light Enterprise and AMOLED Dark Neon Purple modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
